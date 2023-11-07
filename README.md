@@ -14,13 +14,6 @@ Requirements
 * PHP5.5+
 * Composer
 
-
-Installation
-------------
-```shell
-composer require start-point/etcd-php
-```
-
 Usage
 ------------
 
